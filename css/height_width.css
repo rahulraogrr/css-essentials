@@ -1,0 +1,13 @@
+#div1 {
+  background-color: beige;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  border-width: 1px;
+  border-color: rgb(255, 195, 207);
+  border-style: solid;
+  height: 1000px;
+  max-height: 300px;
+}

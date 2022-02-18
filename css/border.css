@@ -1,0 +1,13 @@
+#border {
+  border-style: solid;
+  border-width: 5px; /*By default is 1px*/
+  border-color: blue;
+
+  /* With this you can set properties on one side(top, bottom, left, right)
+  border-top-color: red;
+  border-top-width: 2px;
+  */
+
+  /* It will define how much curve should be applied on borders*/
+  border-radius: 10px;
+}

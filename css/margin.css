@@ -1,0 +1,23 @@
+.div {
+  border-style: solid;
+  border-color: blue;
+  padding: 50px 50px 50px 50px;
+}
+
+body {
+  border-width: 5px;
+  border-style: dotted;
+  border-color: black;
+}
+
+#margin {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#margin1 {
+  width: 200px;
+  margin: 20px auto;
+}

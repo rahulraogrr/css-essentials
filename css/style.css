@@ -1,0 +1,29 @@
+/*
+  element selector
+*/
+p {
+  color: blue;
+  font-size: 20px;
+}
+
+/*
+  id selector
+*/
+#p2 {
+  color: red;
+}
+
+/*
+  class selector
+*/
+.green-text {
+  color: green;
+}
+
+#h {
+  font-size: 50px;
+}
+
+.underline-h {
+  text-decoration: underline;
+}

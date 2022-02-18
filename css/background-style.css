@@ -1,0 +1,16 @@
+#bg {
+  /*background-color: beige;*/
+  background-image: url('../images/stlogo.png');
+  background-repeat: no-repeat;
+  /*background-position: center top;*/
+  background-size: 100% 100%; /* x and y axis */
+  /*background-size: cover;*/
+  /*background-size: contain;*/
+  /*background-attachment: scroll;*/
+}
+
+/*
+body {
+  background-color: black;
+}
+*/
